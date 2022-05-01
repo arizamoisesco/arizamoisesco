@@ -5,7 +5,7 @@
 ## 🚀 Sobre mi
 👩‍💻  Soy un formador en Desarrollo Web Fullstack y desarrollador backend con especialidad en el lenguaje python. Cuento con más de 6 años de experiencia en la enseñanza de desarrollo y tecnologia. 
 
-🧠 Actualmente estoy aprendiendo FastAPI Ruby on Rails, Gatsby y Angular
+🧠 Actualmente estoy aprendiendo FastAPI, Ruby on Rails, Gatsby y Angular
 
 
 ## 🔗 Links
