@@ -5,8 +5,7 @@
 ## 🚀 Sobre mi
 👩‍💻  Soy un formador en Desarrollo Web Fullstack y desarrollador backend con enfoque en el lenguaje python. Cuento con 5 años de experiencia en la enseñanza de desarrollo y tecnologia. 
 
-🧠 Actualmente estoy aprendiendo Ruby on Rails, Nestjs, Gatsby y FastAPI
-
+🧠 Actualmente estoy aprendiendo Ruby on Rails y Nestjs.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arizamoisesco.netlify.app/)
