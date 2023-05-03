@@ -3,12 +3,12 @@
 
 
 ## 🚀 Sobre mi
-👩‍💻  Soy un formador en Desarrollo Web Fullstack y desarrollador backend con enfoque en el lenguaje python. Cuento con 5 años de experiencia en la enseñanza de desarrollo y tecnologia. 
+👩‍💻  Soy un formador en Desarrollo Web Fullstack y desarrollador backend con enfoque en el lenguaje python. Cuento con 6 años de experiencia en la enseñanza de programación y tecnologia. 
 
 🧠 Actualmente estoy aprendiendo Ruby on Rails y Nestjs.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arizamoisesco.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://arizamoises.co/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arizamoisesco)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arizamoisesco)
 
